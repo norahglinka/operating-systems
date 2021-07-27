@@ -1,3 +1,4 @@
 Security-Operating systems use a variety of methods to ensure user security. 
 These include passwords, facial recogntion, fingerprint recognition, and swiping areas of the screen in a specific order.
 Beyond sign in security, operating systems can offer users firewall and anti virus software to protect their information stored on the device.
+Memory Manegment-The operating system manages the computers main memory. Main memory is storage that can be accessed directly through the CPU. The operating system keeps track of the primary memory and allocates the memory to a process when the process requests it and deallocates the memory when the process has terminated or is performing an operation. 
