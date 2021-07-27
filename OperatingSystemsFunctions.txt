@@ -1,0 +1,3 @@
+Security-Operating systems use a variety of methods to ensure user security. 
+These include passwords, facial recogntion, fingerprint recognition, and swiping areas of the screen in a specific order.
+Beyond sign in security, operating systems can offer users firewall and anti virus software to protect their information stored on the device.
